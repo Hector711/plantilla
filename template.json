@@ -1,0 +1,7 @@
+{
+  "name": "react-vite-template",
+  "description": "A React + Vite template",
+  "scripts": {
+    "postinstall": "npm install"
+  }
+}
