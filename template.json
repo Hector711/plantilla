@@ -1,5 +1,5 @@
 {
-  "name": "react-vite-template",
+  "name": "plantilla",
   "description": "A React + Vite template",
   "scripts": {
     "postinstall": "npm install"
